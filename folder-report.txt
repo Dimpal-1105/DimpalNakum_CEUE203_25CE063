@@ -1,0 +1,1002 @@
+FOLDER TREE REPORT
+------------------
+Name: AUTO_MERGE
+Size: 41 bytes
+Modified: 2026-08-18T18:53:56.0009376Z
+------------------
+Name: COMMIT_EDITMSG
+Size: 54 bytes
+Modified: 2026-08-18T18:50:17.9266055Z
+------------------
+Name: config
+Size: 263 bytes
+Modified: 2026-08-18T18:52:22.5346309Z
+------------------
+Name: description
+Size: 73 bytes
+Modified: 2026-08-18T18:46:50.1013947Z
+------------------
+Name: FETCH_HEAD
+Size: 118 bytes
+Modified: 2026-08-18T18:53:55.8214629Z
+------------------
+Name: HEAD
+Size: 21 bytes
+Modified: 2026-08-18T18:53:56.0330781Z
+------------------
+Name: applypatch-msg.sample
+Size: 478 bytes
+Modified: 2026-08-18T18:46:50.1013947Z
+------------------
+Name: commit-msg.sample
+Size: 896 bytes
+Modified: 2026-08-18T18:46:50.1013947Z
+------------------
+Name: fsmonitor-watchman.sample
+Size: 4726 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: post-update.sample
+Size: 189 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: pre-applypatch.sample
+Size: 424 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: pre-commit.sample
+Size: 1649 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: pre-merge-commit.sample
+Size: 416 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: pre-push.sample
+Size: 1374 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: pre-rebase.sample
+Size: 4898 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: pre-receive.sample
+Size: 544 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: prepare-commit-msg.sample
+Size: 1492 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: push-to-checkout.sample
+Size: 2783 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: sendemail-validate.sample
+Size: 2308 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: update.sample
+Size: 3650 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: index
+Size: 1997 bytes
+Modified: 2026-08-18T18:53:56.0170564Z
+------------------
+Name: exclude
+Size: 240 bytes
+Modified: 2026-08-18T18:46:50.1095773Z
+------------------
+Name: HEAD
+Size: 1196 bytes
+Modified: 2026-08-18T18:53:56.0330781Z
+------------------
+Name: main
+Size: 613 bytes
+Modified: 2026-08-18T18:53:56.0217121Z
+------------------
+Name: main
+Size: 315 bytes
+Modified: 2026-08-18T18:54:10.0629551Z
+------------------
+Name: 551c48158efd0c937d5d0fd8e096702a4069d6
+Size: 236 bytes
+Modified: 2026-08-18T18:53:55.2525148Z
+------------------
+Name: 00ea6d7102759441720f23365b6e96450cc8fd
+Size: 237 bytes
+Modified: 2026-08-18T18:53:55.2294457Z
+------------------
+Name: 151748da99944cf40c582dda65831a421c7a54
+Size: 301 bytes
+Modified: 2026-08-18T18:47:01.4425329Z
+------------------
+Name: 23a49bd456632fbf4f9b03bad1eed7cc54f772
+Size: 319 bytes
+Modified: 2026-08-18T18:47:01.4684527Z
+------------------
+Name: d6ff0f63b348a1a9619fdadbc07c0d602b7efa
+Size: 350 bytes
+Modified: 2026-08-18T18:47:01.4268707Z
+------------------
+Name: 88fd94709957ab208f4ce47e6479dddef431ca
+Size: 478 bytes
+Modified: 2026-08-18T18:47:01.4949487Z
+------------------
+Name: f72b255987122bbec383f387f532f81a631e47
+Size: 830 bytes
+Modified: 2026-08-18T18:53:55.6231157Z
+------------------
+Name: 725fa6eedcd610e46466e612473ee93262432d
+Size: 148 bytes
+Modified: 2026-08-18T18:50:17.9108028Z
+------------------
+Name: db290697c0253320d371aa2807bb1ac7ada34e
+Size: 90 bytes
+Modified: 2026-08-18T18:53:55.7415327Z
+------------------
+Name: c63b99dd7436d90b199f06020da099baa00007
+Size: 888 bytes
+Modified: 2026-08-18T18:47:01.4268707Z
+------------------
+Name: e467e513b8ad1680a337ac0bfc8438170608ac
+Size: 835 bytes
+Modified: 2026-08-18T18:53:55.6115811Z
+------------------
+Name: 8ac60ce31efa415f5c04eb37d9c4f1326271d1
+Size: 408 bytes
+Modified: 2026-08-18T18:47:01.483482Z
+------------------
+Name: 03f90484742bea89bc71cdbed1969f2669a777
+Size: 86 bytes
+Modified: 2026-08-18T18:53:55.7070414Z
+------------------
+Name: a9a8ba96c28f0ed9db275dce1bd960cb30513c
+Size: 93 bytes
+Modified: 2026-08-18T18:53:55.7070414Z
+------------------
+Name: 491d023e8b386091a29a17cc27f6516c360014
+Size: 641 bytes
+Modified: 2026-08-18T18:53:55.6869858Z
+------------------
+Name: f87638ffad15facd70a51c56d659a0fba91fa9
+Size: 87 bytes
+Modified: 2026-08-18T18:53:55.702799Z
+------------------
+Name: 5760892ee4bd359f3ff88bd60d111aa3c6168b
+Size: 86 bytes
+Modified: 2026-08-18T18:50:17.9108028Z
+------------------
+Name: 825dc642cb6eb9a060e54bf8d69288fbee4904
+Size: 15 bytes
+Modified: 2026-08-18T18:53:55.6450767Z
+------------------
+Name: f782716dd38f0d898f43f00bc650004c5d4663
+Size: 795 bytes
+Modified: 2026-08-18T18:53:55.6654791Z
+------------------
+Name: ce60d1c0b578f2d4f4c6e24a240f2136eea65e
+Size: 51 bytes
+Modified: 2026-08-18T18:50:17.9108028Z
+------------------
+Name: 857270df92c8a825c3edc6cf1919fa14ef7ce5
+Size: 580 bytes
+Modified: 2026-08-18T18:47:01.4425329Z
+------------------
+Name: ca994d3fee8c81d7aa9f5d1a5e28ed887a01e0
+Size: 60 bytes
+Modified: 2026-08-18T18:53:55.7280943Z
+------------------
+Name: ba55bf304e0695c3d51a81de52cc931d7d5bf3
+Size: 370 bytes
+Modified: 2026-08-18T18:53:55.6787376Z
+------------------
+Name: fb5ce3055554d6131b854ac363e9134ce998c3
+Size: 850 bytes
+Modified: 2026-08-18T18:53:55.6271418Z
+------------------
+Name: c539b62331cd47500832a58c5b5b8fd7ae6be9
+Size: 831 bytes
+Modified: 2026-08-18T18:53:55.6271418Z
+------------------
+Name: e9c0613b78671fc69d92b6dacf0d147f487d27
+Size: 58 bytes
+Modified: 2026-08-18T18:53:55.7268409Z
+------------------
+Name: 05aff05744ca2d1b1ba301784955c7d5154858
+Size: 50 bytes
+Modified: 2026-08-18T18:50:17.9108028Z
+------------------
+Name: 50eb52a60b629dd438e7cba1ea9f0d4b06118a
+Size: 487 bytes
+Modified: 2026-08-18T18:47:01.496236Z
+------------------
+Name: d7b98e2273af5b7e61b759dce2407448dac937
+Size: 74 bytes
+Modified: 2026-08-18T18:53:55.6654791Z
+------------------
+Name: ccc92ced7422f5ae1620b5dedf3a7b5182987d
+Size: 86 bytes
+Modified: 2026-08-18T18:53:55.7347165Z
+------------------
+Name: 2e651c78a9a63e02287658a2fe038a4ae2641d
+Size: 464 bytes
+Modified: 2026-08-18T18:53:55.7070414Z
+------------------
+Name: 39f625e355c29420b5ff27429666e2dbd4058f
+Size: 64 bytes
+Modified: 2026-08-18T18:53:55.7415327Z
+------------------
+Name: 1bd6cd4c7c50562b6d28c5b7c055c45729dbb6
+Size: 230 bytes
+Modified: 2026-08-18T18:47:01.4583003Z
+------------------
+Name: 874ecf804a8fe96dd7efa88035764ee6bf026d
+Size: 847 bytes
+Modified: 2026-08-18T18:53:55.2634726Z
+------------------
+Name: a559b8e15804787441ff2743d5e09271f423c5
+Size: 817 bytes
+Modified: 2026-08-18T18:53:55.6869858Z
+------------------
+Name: d5e45862764e365d512564304fc7932c55863c
+Size: 653 bytes
+Modified: 2026-08-18T18:53:55.6849095Z
+------------------
+Name: 76f1a275feaa370e0e0d786e1467ff490ccd59
+Size: 135 bytes
+Modified: 2026-08-18T18:53:55.7070414Z
+------------------
+Name: 80ebc4b0ce749b7a454e91637e672c1ddb4562
+Size: 126 bytes
+Modified: 2026-08-18T18:53:55.2699219Z
+------------------
+Name: 20e613b2976bf644a3ef0cc7c49f35b3188915
+Size: 63 bytes
+Modified: 2026-08-18T18:53:55.7415327Z
+------------------
+Name: eeecbf51663d9313825687c4b9813a89bd939e
+Size: 60 bytes
+Modified: 2026-08-18T18:53:55.6450767Z
+------------------
+Name: 61f5e080c7e391e2c81c4b25f13fc0c00adb02
+Size: 85 bytes
+Modified: 2026-08-18T18:53:55.6654791Z
+------------------
+Name: 7a7b3578cd06e4f1935642ed8fb4f3ab23b2c0
+Size: 528 bytes
+Modified: 2026-08-18T18:47:01.4425329Z
+------------------
+Name: b5f2a804858c01d0a4caba688c753cbd9e4069
+Size: 379 bytes
+Modified: 2026-08-18T18:53:55.7213987Z
+------------------
+Name: 73827695b92c6568e7c954fc64e370537fdf4b
+Size: 845 bytes
+Modified: 2026-08-18T18:53:55.6212933Z
+------------------
+Name: dbe8a5c08a2be2dd3a0625c47f4b26688ac30b
+Size: 53 bytes
+Modified: 2026-08-18T18:53:55.6869858Z
+------------------
+Name: cce09d2246888a7dbbd9fbb46e7124344caf86
+Size: 412 bytes
+Modified: 2026-08-18T18:53:55.6654791Z
+------------------
+Name: 046d01cef0b7c757844306d4e7431f71c04422
+Size: 854 bytes
+Modified: 2026-08-18T18:53:55.2816911Z
+------------------
+Name: ce7f6e38be7df0dd3f6a71ac7fc6bf87e59fdf
+Size: 491 bytes
+Modified: 2026-08-18T18:53:55.9701645Z
+------------------
+Name: e233a063280addba4c1ee6b1b1db995129d35e
+Size: 153 bytes
+Modified: 2026-08-18T18:50:17.9266055Z
+------------------
+Name: 7aaa2534d23f47b49812124a6dbff565ddaac3
+Size: 454 bytes
+Modified: 2026-08-18T18:47:01.4775545Z
+------------------
+Name: f6946062189cea9d859c4ec8d9e68b17045d20
+Size: 150 bytes
+Modified: 2026-08-18T18:53:55.7070414Z
+------------------
+Name: 4448f553d1dc700294b2cd963752839e73928a
+Size: 90 bytes
+Modified: 2026-08-18T18:53:55.7483218Z
+------------------
+Name: 61d4392ad4499f08b35472532e9d46349aba1d
+Size: 91 bytes
+Modified: 2026-08-18T18:53:55.6632997Z
+------------------
+Name: 09211442e2e06f6f4f0a4da55ec93742ee55d4
+Size: 620 bytes
+Modified: 2026-08-18T18:53:55.6869858Z
+------------------
+Name: 92d2665dc7686e50e3a12ad1031d59117b06e0
+Size: 60 bytes
+Modified: 2026-08-18T18:53:55.7328435Z
+------------------
+Name: eb50a6efe25ea8cb1a00c3b1ee1d7f2f7f9b06
+Size: 111 bytes
+Modified: 2026-08-18T18:53:55.7049559Z
+------------------
+Name: 31fe846a6a0cc3f3d9aa1cb868327b605e6a2b
+Size: 58 bytes
+Modified: 2026-08-18T18:53:55.6787376Z
+------------------
+Name: f92b797c6f19723a59ee569be21cd11a4f5436
+Size: 840 bytes
+Modified: 2026-08-18T18:53:55.2294457Z
+------------------
+Name: 2a8a92307f8aca6ce5dd76dc02f509adacb984
+Size: 798 bytes
+Modified: 2026-08-18T18:53:55.6450767Z
+------------------
+Name: f42e544f5e0abaa0b11a3b787fb25c5cebe8af
+Size: 844 bytes
+Modified: 2026-08-18T18:53:55.2208129Z
+------------------
+Name: 39feb6fba8d4253e96fea070ab3d20ccf17cde
+Size: 58 bytes
+Modified: 2026-08-18T18:53:55.6869858Z
+------------------
+Name: 639d474679db3a47b3ac0433cf6986cd8cb000
+Size: 53 bytes
+Modified: 2026-08-18T18:53:55.7280943Z
+------------------
+Name: a2dc2f441ddfe3515c61a089baf6c7cc76faa4
+Size: 93 bytes
+Modified: 2026-08-18T18:53:55.6744579Z
+------------------
+Name: d2f220a46819a732b299cbd8ca5e9a1b79098d
+Size: 921 bytes
+Modified: 2026-08-18T18:53:55.7213987Z
+------------------
+Name: 31abc572ce575eb06d333399db44ac6c131aa5
+Size: 850 bytes
+Modified: 2026-08-18T18:53:55.6401103Z
+------------------
+Name: 6326eb16dae47a33bca382d8b69eb071988a64
+Size: 834 bytes
+Modified: 2026-08-18T18:53:55.2847055Z
+------------------
+Name: 255a978a17ac0cd92f45e889721c604f8ae35c
+Size: 43 bytes
+Modified: 2026-08-18T18:53:55.6587804Z
+------------------
+Name: 7c0ed2f982272b8b411a395864580657fbb373
+Size: 189 bytes
+Modified: 2026-08-18T18:53:56.0191922Z
+------------------
+Name: ce0cdc19224d2354afe71a6e6ef6c621a9f5bc
+Size: 838 bytes
+Modified: 2026-08-18T18:53:55.2453264Z
+------------------
+Name: c8d47d9eb3f7a60caa0fb2e3767d46b5ae7ac7
+Size: 831 bytes
+Modified: 2026-08-18T18:53:55.2756586Z
+------------------
+Name: 133a79a7681d71fd1df54dfa973f9c54882830
+Size: 593 bytes
+Modified: 2026-08-18T18:53:55.7070414Z
+------------------
+Name: d17900e79b63cee0e2d7532819813e07ba2f3b
+Size: 851 bytes
+Modified: 2026-08-18T18:53:55.6271418Z
+------------------
+Name: 741835f64fb81b7c2688cc120234e12b46432b
+Size: 831 bytes
+Modified: 2026-08-18T18:53:55.2525148Z
+------------------
+Name: 4ab1e6fb3053938a30916cc379f45cdbee6359
+Size: 91 bytes
+Modified: 2026-08-18T18:50:17.9108028Z
+------------------
+Name: fcef65a039a30d2aff3fdbe8c65dd9227d7c9f
+Size: 801 bytes
+Modified: 2026-08-18T18:53:55.6869858Z
+------------------
+Name: 4d6dec0ea5bea6eb9f24e3d3ac7e34b3bfd342
+Size: 137 bytes
+Modified: 2026-08-18T18:53:55.2420843Z
+------------------
+Name: 5a71e62fd61f1197d5ff69ad15a40e1c2d8a2e
+Size: 61 bytes
+Modified: 2026-08-18T18:53:55.7347165Z
+------------------
+Name: 27f236c3b6c439eda82b4ef255674555e9bdb3
+Size: 290 bytes
+Modified: 2026-08-18T18:53:55.7536537Z
+------------------
+Name: 330acfca8db3e7d8a81642e44cbd85cbbd0659
+Size: 194 bytes
+Modified: 2026-08-18T18:47:01.4684527Z
+------------------
+Name: 0f5a1d3e0c3d2ef247178e58b5eaf0e4c20b02
+Size: 64 bytes
+Modified: 2026-08-18T18:53:55.6787376Z
+------------------
+Name: 0a6321cae0146b36f94786361e3a75910d2423
+Size: 53 bytes
+Modified: 2026-08-18T18:53:55.6869858Z
+------------------
+Name: 2ffad1fba999707c98c48076e2993c40e9e653
+Size: 305 bytes
+Modified: 2026-08-18T18:47:01.4583003Z
+------------------
+Name: 32c5d3d9c922f7f4d90661b568cd712f81bf59
+Size: 63 bytes
+Modified: 2026-08-18T18:53:55.7407081Z
+------------------
+Name: 029d3b8a7fd39d1690c4bdfdba3bf6eac8cad0
+Size: 86 bytes
+Modified: 2026-08-18T18:50:17.9108028Z
+------------------
+Name: 965526fca4b67cdd5cb72eee25ec7868f0bd40
+Size: 68 bytes
+Modified: 2026-08-18T18:53:55.7347165Z
+------------------
+Name: e4aef36dce47e69ffd813c8b2f4dfbdcf1e8f8
+Size: 93 bytes
+Modified: 2026-08-18T18:53:55.7483218Z
+------------------
+Name: c49d527dc00242155c0578f665b5285472646c
+Size: 524 bytes
+Modified: 2026-08-18T18:47:01.4886476Z
+------------------
+Name: ORIG_HEAD
+Size: 41 bytes
+Modified: 2026-08-18T18:53:55.956602Z
+------------------
+Name: main
+Size: 41 bytes
+Modified: 2026-08-18T18:53:56.0217121Z
+------------------
+Name: main
+Size: 41 bytes
+Modified: 2026-08-18T18:54:10.0629551Z
+------------------
+Name: .gitignore
+Size: 35 bytes
+Modified: 2026-08-18T18:48:53.8247508Z
+------------------
+Name: AutoCloseDemo.class
+Size: 1341 bytes
+Modified: 2026-10-26T07:28:30.7954283Z
+------------------
+Name: AutoCloseDemo.java
+Size: 607 bytes
+Modified: 2026-10-26T05:59:15.2368788Z
+------------------
+Name: Booking.class
+Size: 491 bytes
+Modified: 2026-10-26T07:31:25.4873079Z
+------------------
+Name: BoundedStats.class
+Size: 1714 bytes
+Modified: 2026-10-26T08:10:13.2832469Z
+------------------
+Name: BoundedStats.java
+Size: 724 bytes
+Modified: 2026-10-26T05:36:24.1037664Z
+------------------
+Name: Box.class
+Size: 501 bytes
+Modified: 2026-10-26T08:09:05.1707444Z
+------------------
+Name: Buffer.class
+Size: 1225 bytes
+Modified: 2026-10-26T07:41:29.8625141Z
+------------------
+Name: ChatFilter.class
+Size: 1520 bytes
+Modified: 2026-10-02T17:08:19.9495626Z
+------------------
+Name: ChatFilter.java
+Size: 940 bytes
+Modified: 2026-08-18T18:53:55.9852346Z
+------------------
+Name: Driver4.class
+Size: 862 bytes
+Modified: 2026-10-02T17:08:19.8804024Z
+------------------
+Name: Driver4.java
+Size: 538 bytes
+Modified: 2026-08-18T18:53:55.9852346Z
+------------------
+Name: CinemaShow.java
+Size: 1608 bytes
+Modified: 2026-08-18T18:53:55.9852346Z
+------------------
+Name: Column.class
+Size: 409 bytes
+Modified: 2026-10-26T07:21:25.1205741Z
+------------------
+Name: ColumnMapping.class
+Size: 2402 bytes
+Modified: 2026-10-26T07:21:25.267379Z
+------------------
+Name: ColumnMapping.java
+Size: 1813 bytes
+Modified: 2026-10-26T07:21:16.3593424Z
+------------------
+Name: Consumer.class
+Size: 448 bytes
+Modified: 2026-10-26T07:41:29.8812762Z
+------------------
+Name: Counter.class
+Size: 296 bytes
+Modified: 2026-10-26T07:30:09.1789791Z
+------------------
+Name: CounterRace.class
+Size: 1124 bytes
+Modified: 2026-10-26T07:30:09.2618744Z
+------------------
+Name: CounterRace.java
+Size: 812 bytes
+Modified: 2026-10-05T09:41:13.4029832Z
+------------------
+Name: DeadlockDemo.class
+Size: 2281 bytes
+Modified: 2026-10-26T08:42:32.0933045Z
+------------------
+Name: DeadlockDemo.java
+Size: 1293 bytes
+Modified: 2026-10-26T05:55:56.7265167Z
+------------------
+Name: DeadlockFixed.class
+Size: 2001 bytes
+Modified: 2026-10-26T08:45:35.0250697Z
+------------------
+Name: DeadlockFixed.java
+Size: 752 bytes
+Modified: 2026-10-26T05:56:34.283174Z
+------------------
+Name: Driver.class
+Size: 1152 bytes
+Modified: 2026-10-02T16:57:26.5279234Z
+------------------
+Name: Driver.java
+Size: 713 bytes
+Modified: 2026-08-18T18:53:55.9852346Z
+------------------
+Name: Point.class
+Size: 1140 bytes
+Modified: 2026-10-02T16:57:26.54217Z
+------------------
+Name: Point.java
+Size: 441 bytes
+Modified: 2026-10-02T16:53:01.8694346Z
+------------------
+Name: DivideByZeroException.class
+Size: 238 bytes
+Modified: 2026-10-26T07:23:54.3943132Z
+------------------
+Name: Card.class
+Size: 1013 bytes
+Modified: 2026-10-02T17:00:59.8270593Z
+------------------
+Name: Card.java
+Size: 373 bytes
+Modified: 2026-08-18T18:53:55.991435Z
+------------------
+Name: Driver2.class
+Size: 1370 bytes
+Modified: 2026-10-02T17:00:59.8203269Z
+------------------
+Name: Driver2.java
+Size: 717 bytes
+Modified: 2026-08-18T18:53:55.991435Z
+------------------
+Name: folder-report.txt
+Size: 0 bytes
+Modified: 2026-10-26T08:52:08.2484202Z
+------------------
+Name: FolderReport$1.class
+Size: 2346 bytes
+Modified: 2026-10-26T08:52:01.5580038Z
+------------------
+Name: FolderReport.class
+Size: 1304 bytes
+Modified: 2026-10-26T08:52:01.565449Z
+------------------
+Name: FolderReport.java
+Size: 1400 bytes
+Modified: 2026-10-26T08:51:30.8830019Z
+------------------
+Name: FormValidator.class
+Size: 2600 bytes
+Modified: 2026-10-26T07:14:48.0375104Z
+------------------
+Name: FormValidator.java
+Size: 2066 bytes
+Modified: 2026-10-26T07:11:10.7723228Z
+------------------
+Name: Driver.class
+Size: 1652 bytes
+Modified: 2026-10-02T17:43:56.8853284Z
+------------------
+Name: Driver.java
+Size: 885 bytes
+Modified: 2026-10-02T17:42:55.0137188Z
+------------------
+Name: Fraction.class
+Size: 1184 bytes
+Modified: 2026-10-02T17:43:56.8979541Z
+------------------
+Name: Fraction.java
+Size: 809 bytes
+Modified: 2026-10-02T17:43:16.6791245Z
+------------------
+Name: GenericContainers.class
+Size: 1863 bytes
+Modified: 2026-10-26T08:09:05.2322821Z
+------------------
+Name: GenericContainers.java
+Size: 1110 bytes
+Modified: 2026-10-26T08:08:55.4901821Z
+------------------
+Name: GenericStack.class
+Size: 1336 bytes
+Modified: 2026-10-26T08:11:11.1019161Z
+------------------
+Name: GenericStack.java
+Size: 1054 bytes
+Modified: 2026-10-26T05:46:28.0521247Z
+------------------
+Name: GuardedCalculator.class
+Size: 1922 bytes
+Modified: 2026-10-26T07:23:54.5208149Z
+------------------
+Name: GuardedCalculator.java
+Size: 1873 bytes
+Modified: 2026-09-28T09:38:59.6381512Z
+------------------
+Name: InvalidQuantityException.class
+Size: 234 bytes
+Modified: 2026-10-26T07:25:47.6256155Z
+------------------
+Name: Leaderboard.class
+Size: 2557 bytes
+Modified: 2026-10-26T08:06:33.2207826Z
+------------------
+Name: Leaderboard.java
+Size: 1016 bytes
+Modified: 2026-10-26T08:05:49.2583934Z
+------------------
+Name: log1.txt
+Size: 69 bytes
+Modified: 2026-10-26T07:47:17.3243698Z
+------------------
+Name: log2.txt
+Size: 47 bytes
+Modified: 2026-10-26T07:47:17.3253591Z
+------------------
+Name: LogAnalyzer.class
+Size: 2489 bytes
+Modified: 2026-10-26T07:47:12.4729616Z
+------------------
+Name: LogAnalyzer.java
+Size: 1348 bytes
+Modified: 2026-10-26T05:51:31.484083Z
+------------------
+Name: MaxLength.class
+Size: 388 bytes
+Modified: 2026-10-26T07:14:47.8986815Z
+------------------
+Name: account.java
+Size: 1947 bytes
+Modified: 2026-10-02T18:37:38.7780001Z
+------------------
+Name: CommandParser.java
+Size: 698 bytes
+Modified: 2026-10-02T18:43:52.3935423Z
+------------------
+Name: CurrentAccount.java
+Size: 581 bytes
+Modified: 2026-10-02T18:40:41.3052608Z
+------------------
+Name: Customer.java
+Size: 2012 bytes
+Modified: 2026-10-02T19:00:45.2089844Z
+------------------
+Name: FixedDepositAccount.java
+Size: 373 bytes
+Modified: 2026-10-02T18:39:31.3159491Z
+------------------
+Name: MiniBank.java
+Size: 8697 bytes
+Modified: 2026-10-02T18:41:50.6693489Z
+------------------
+Name: SavingsAccount.java
+Size: 550 bytes
+Modified: 2026-10-02T18:39:43.6943582Z
+------------------
+Name: StatementFormatter.java
+Size: 1006 bytes
+Modified: 2026-10-02T18:38:38.9191148Z
+------------------
+Name: Validator.java
+Size: 1104 bytes
+Modified: 2026-10-02T18:25:45.634004Z
+------------------
+Name: MiniBank.java
+Size: 1756 bytes
+Modified: 2026-08-18T18:53:55.991435Z
+------------------
+Name: MiniTestRunner.class
+Size: 1437 bytes
+Modified: 2026-10-26T07:18:14.6187272Z
+------------------
+Name: MiniTestRunner.java
+Size: 960 bytes
+Modified: 2026-10-26T07:17:50.9536332Z
+------------------
+Name: MyResource.class
+Size: 476 bytes
+Modified: 2026-10-26T07:28:30.7256269Z
+------------------
+Name: MyTests.class
+Size: 639 bytes
+Modified: 2026-10-26T07:18:14.5461527Z
+------------------
+Name: MyThread.class
+Size: 341 bytes
+Modified: 2026-10-26T07:31:25.5045241Z
+------------------
+Name: NotBlank.class
+Size: 373 bytes
+Modified: 2026-10-26T07:14:47.8913753Z
+------------------
+Name: Notification_sender.java
+Size: 977 bytes
+Modified: 2026-10-02T17:35:29.995948Z
+------------------
+Name: OutOfStockException.class
+Size: 297 bytes
+Modified: 2026-10-26T07:25:47.634Z
+------------------
+Name: Pair.class
+Size: 464 bytes
+Modified: 2026-10-26T08:09:05.1747452Z
+------------------
+Name: ParkingLot.java
+Size: 1763 bytes
+Modified: 2026-08-18T18:53:55.991435Z
+------------------
+Name: RegexCheck.class
+Size: 1259 bytes
+Modified: 2026-10-02T17:04:58.9754332Z
+------------------
+Name: regexCheck.java
+Size: 1154 bytes
+Modified: 2026-08-18T18:53:55.991435Z
+------------------
+Name: B.class
+Size: 1358 bytes
+Modified: 2026-10-02T17:12:30.9399145Z
+------------------
+Name: B.java
+Size: 1567 bytes
+Modified: 2026-08-25T08:12:20.2935535Z
+------------------
+Name: Employee.class
+Size: 333 bytes
+Modified: 2026-10-02T17:12:30.8865414Z
+------------------
+Name: FullTime.class
+Size: 331 bytes
+Modified: 2026-10-02T17:12:30.8915399Z
+------------------
+Name: Intern.class
+Size: 330 bytes
+Modified: 2026-10-02T17:12:30.9010541Z
+------------------
+Name: PartTime.class
+Size: 376 bytes
+Modified: 2026-10-02T17:12:30.898055Z
+------------------
+Name: Producer.class
+Size: 456 bytes
+Modified: 2026-10-26T07:41:29.875261Z
+------------------
+Name: ProducerConsumer.class
+Size: 514 bytes
+Modified: 2026-10-26T07:41:29.8885946Z
+------------------
+Name: ProducerConsumer.java
+Size: 1562 bytes
+Modified: 2026-10-05T10:01:06.1696719Z
+------------------
+Name: Remote_Control.java
+Size: 1775 bytes
+Modified: 2026-10-02T17:32:00.7296294Z
+------------------
+Name: Run.class
+Size: 370 bytes
+Modified: 2026-10-26T07:18:14.5173242Z
+------------------
+Name: SaveLoad.class
+Size: 1837 bytes
+Modified: 2026-10-26T07:44:29.8466739Z
+------------------
+Name: SaveLoad.java
+Size: 1161 bytes
+Modified: 2026-10-26T07:44:10.7839312Z
+------------------
+Name: arp.pkt
+Size: 45573 bytes
+Modified: 2026-08-22T05:53:07.167634Z
+------------------
+Name: linear.pkt
+Size: 49645 bytes
+Modified: 2026-08-22T06:29:34.1630049Z
+------------------
+Name: p4(1).pkt
+Size: 54315 bytes
+Modified: 2026-08-20T07:02:41.072393Z
+------------------
+Name: p4(2).pkt
+Size: 58547 bytes
+Modified: 2026-08-19T03:50:26.0911499Z
+------------------
+Name: practical-3(1).pkt
+Size: 45265 bytes
+Modified: 2026-08-22T06:08:52.2091224Z
+------------------
+Name: practical-3(2).pkt
+Size: 52880 bytes
+Modified: 2026-08-13T18:01:59.182807Z
+------------------
+Name: practical-3(3).pkt
+Size: 64113 bytes
+Modified: 2026-08-22T05:24:43.0720128Z
+------------------
+Name: practical-4(2).pkt
+Size: 65596 bytes
+Modified: 2026-08-22T07:03:23.3001721Z
+------------------
+Name: Practical-5(1).pkt
+Size: 104882 bytes
+Modified: 2026-08-19T10:08:25.1034641Z
+------------------
+Name: RIP.pkt
+Size: 61162 bytes
+Modified: 2026-08-22T05:38:42.3205903Z
+------------------
+Name: Static.pkt
+Size: 58624 bytes
+Modified: 2026-08-22T05:44:53.8499463Z
+------------------
+Name: SeatBooking.class
+Size: 1187 bytes
+Modified: 2026-10-26T07:31:25.5714862Z
+------------------
+Name: SeatBooking.java
+Size: 852 bytes
+Modified: 2026-10-05T09:42:42.5971684Z
+------------------
+Name: A.class
+Size: 1295 bytes
+Modified: 2026-10-02T17:11:00.047165Z
+------------------
+Name: A.java
+Size: 1319 bytes
+Modified: 2026-08-18T18:53:55.991435Z
+------------------
+Name: Circle.class
+Size: 315 bytes
+Modified: 2026-10-02T17:10:59.9276889Z
+------------------
+Name: Rectangle.class
+Size: 321 bytes
+Modified: 2026-10-02T17:10:59.9376902Z
+------------------
+Name: Shape.class
+Size: 201 bytes
+Modified: 2026-10-02T17:10:59.9006891Z
+------------------
+Name: Triangle.class
+Size: 332 bytes
+Modified: 2026-10-02T17:10:59.9436859Z
+------------------
+Name: SignupForm.class
+Size: 434 bytes
+Modified: 2026-10-26T07:14:47.9149543Z
+------------------
+Name: SPS.java
+Size: 2876 bytes
+Modified: 2026-10-02T16:31:45.8970468Z
+------------------
+Name: Stack.class
+Size: 859 bytes
+Modified: 2026-10-26T08:11:11.0566195Z
+------------------
+Name: StockIssue.class
+Size: 1579 bytes
+Modified: 2026-10-26T07:25:47.7905978Z
+------------------
+Name: StockIssue.java
+Size: 1857 bytes
+Modified: 2026-09-28T10:30:17.9890478Z
+------------------
+Name: Student.class
+Size: 457 bytes
+Modified: 2026-10-26T07:44:29.7476969Z
+------------------
+Name: students.dat
+Size: 127 bytes
+Modified: 2026-10-26T07:44:33.2781842Z
+------------------
+Name: Driver.class
+Size: 683 bytes
+Modified: 2026-10-02T17:49:10.8547336Z
+------------------
+Name: Driver.java
+Size: 351 bytes
+Modified: 2026-10-02T17:48:39.528839Z
+------------------
+Name: TemplateFiller.class
+Size: 1225 bytes
+Modified: 2026-10-02T17:49:10.8872497Z
+------------------
+Name: TemplateFiller.java
+Size: 1054 bytes
+Modified: 2026-10-02T17:48:57.8871997Z
+------------------
+Name: TestResource.java
+Size: 668 bytes
+Modified: 2026-09-28T10:15:03.2800722Z
+------------------
+Name: Thermostat.java
+Size: 1702 bytes
+Modified: 2026-08-25T07:01:54.9056268Z
+------------------
+Name: ThreadPoolRunner.class
+Size: 2094 bytes
+Modified: 2026-10-26T07:39:35.5134801Z
+------------------
+Name: ThreadPoolRunner.java
+Size: 868 bytes
+Modified: 2026-10-05T09:51:38.6159737Z
+------------------
+Name: ThreadSum.class
+Size: 2816 bytes
+Modified: 2026-10-26T07:37:55.1752332Z
+------------------
+Name: ThreadSum.java
+Size: 2227 bytes
+Modified: 2026-10-26T07:36:36.6537951Z
+------------------
+Name: TollBooth.java
+Size: 2022 bytes
+Modified: 2026-08-18T18:53:56.0009376Z
+------------------
+Name: UniqueVisitors.class
+Size: 1567 bytes
+Modified: 2026-10-26T08:03:25.3122289Z
+------------------
+Name: UniqueVisitors.java
+Size: 842 bytes
+Modified: 2026-10-26T08:03:15.7714191Z
+------------------
+Name: VendingMachine.java
+Size: 688 bytes
+Modified: 2026-08-18T18:53:56.0009376Z
+------------------
+Name: Warehouse.class
+Size: 1242 bytes
+Modified: 2026-10-26T07:25:47.7117363Z
+------------------
+Name: WordFrequency.class
+Size: 2606 bytes
+Modified: 2026-10-26T08:01:25.1322677Z
+------------------
+Name: WordFrequency.java
+Size: 763 bytes
+Modified: 2026-10-26T05:47:58.3650422Z
+------------------

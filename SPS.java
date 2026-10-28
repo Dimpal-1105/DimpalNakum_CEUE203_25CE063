@@ -18,13 +18,11 @@ public static int Winner(Move a,Move b)
                     return 1;
                 else
                     return -1;
-
             case PAPER :
                 if(b == Move.ROCK || b == Move.SPOCK)
                     return 1;
                 else
                     return -1;
-
             case SCISSORS :
                 if(b == Move.PAPER || b == Move.LIZARD)
                     return 1;
@@ -35,7 +33,6 @@ public static int Winner(Move a,Move b)
                     return 1;
                 else
                     return -1;
-
             case SPOCK :
                 if(b == Move.SCISSORS || b == Move.ROCK)
                     return 1;
@@ -55,7 +52,7 @@ public static void main(String[] args)
 
         for(int i=1; i<=5; i++)
         {
-            System.out.println("\nRound " + i);
+            System.out.println("Round " + i);
             System.out.println("Enter your choice from(ROCK, PAPER, SCISSORS, LIZARD, SPOCK):");
 
             String input = sc.next().toUpperCase();
@@ -86,7 +83,7 @@ public static void main(String[] args)
             }
         }
 
-        System.out.println("\nFinal Score");
+        System.out.println("Final Score");
         System.out.println("You = " + playerScore);
         System.out.println("Computer = " + computerScore);
 

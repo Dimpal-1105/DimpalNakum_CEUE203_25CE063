@@ -1,0 +1,2 @@
+WARNING: Low memory
+ERROR: Connection failed

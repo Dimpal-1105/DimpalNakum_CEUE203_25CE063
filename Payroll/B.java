@@ -41,7 +41,7 @@ class PartTime extends Employee {
     }
 }
 
-class Intern extends Employee {
+class Intern extends Employee{
 
     double stipend;
 

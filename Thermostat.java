@@ -1,4 +1,5 @@
-public class Thermostat {
+public class Thermostat
+{
     private String location;
     private int temperature;
     private static final int MIN=16;

@@ -1,0 +1,3 @@
+INFO: Server started
+ERROR: File not found
+INFO: Request received
